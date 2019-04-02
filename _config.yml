@@ -11,8 +11,8 @@ email: budai.martin@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello Jekyll blog!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bmartin0121.github.io" # the base hostname & protocol for your site
-github_username:  bmartin0121
+url: "http://budaimartin.github.io" # the base hostname & protocol for your site
+github_username:  budaimartin
 
 # Build settings
 markdown: kramdown
