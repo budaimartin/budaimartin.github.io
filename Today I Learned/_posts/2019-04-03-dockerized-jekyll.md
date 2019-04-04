@@ -9,13 +9,13 @@ This is my first _Today I Learned_ post on this blog and what else would be a be
 
 # Hello Jekyll
 
-It's been about 20 hours since I started setting up my Jekyll blog, so I'm still learning all the cool stuff this tool can do. Nowadays I use Ubuntu 18.04 at home, so setting up Jekyll only took a few minutes and like 2 or 3 command line query. But I also would like to take notes on my workstation where I stuck with Windows 10, and where [the setup is a bit more complicated](https://jekyllrb.com/docs/installation/windows/) and involves the installation of other stuff as well.
+It's been about 20 hours since I started setting up my Jekyll blog, so I'm still learning all the cool stuff this tool can do. Nowadays I use Ubuntu 18.04 at home, so setting up Jekyll only took a few minutes and like 2 or 3 command line queries. But I also would like to take notes on my workstation where I stuck with Windows 10, and where [the setup is a bit more complicated](https://jekyllrb.com/docs/installation/windows/) and involves installation of other stuff as well.
 
 Then I asked myself the question: **Isn't there a Docker image with Jekyll installed and set up?** (Like, for example, [Jenkins does](https://hub.docker.com/r/jenkins/jenkins/)?) Actually [there is (are)](https://github.com/envygeeks/jekyll-docker)!
 
 <div style="text-align:center"><img src="/img/til-docker-jekyll/dockerize-all-the-things.jpg"></div>
 
-# Dockerize all the things!
+# Hello Dockerized Jekyll!
 
 First I started with a minimalistic Dockerfile that copies the blog into the container and starts up Jekyll.
 
