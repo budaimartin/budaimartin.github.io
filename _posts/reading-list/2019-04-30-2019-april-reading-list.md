@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019 April Reading List"
-date:   2019-04-03 23:50:00 +0200
+date:   2019-04-30 23:50:00 +0200
 categories: [Reading List]
 tags: [kotlin, java, software_engineering]
 ---
