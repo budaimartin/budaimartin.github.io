@@ -9,9 +9,8 @@ tags: [kotlin, java, software_engineering]
 # TBR
 
 - [ software engineering] https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1
-- [ software engineering ] https://medium.com/@pddivine/marie-kondos-tidying-method-applied-to-software-design-cf067922e44a
+- [ software engineering] https://medium.freecodecamp.org/am-i-a-real-software-engineer-yet-a0f38a2248c0
 - [ java ] https://openjdk.java.net/jeps/8220715
-- [ machine learing ] https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b
 - [ kotlin ] https://proandroiddev.com/forget-rxjava-kotlin-coroutines-are-all-you-need-part-1-2-4f62ecc4f99b
 - [ kotlin ] https://medium.com/@marcogomiero/a-journey-from-async-task-to-kotlin-coroutines-735c273d76cb
 - [ kotlin? ] https://hackernoon.com/clean-architecture-example-in-kotlin-9f23169219be
@@ -19,6 +18,9 @@ tags: [kotlin, java, software_engineering]
 - [ ?? ] https://medium.com/@chris.shellenbarger/what-is-a-maven-repository-6fa22991fad9
 - [ ?? ] https://medium.com/linagora-engineering/https-medium-com-linagora-engineering-is-hardware-the-black-hole-of-computing-bdb9977ed5a8
 - [ docker ] https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae
+- [ db ] https://medium.com/@techboomph/why-your-sql-is-slow-4749c4dff4bd
+- [ machine learning ] https://towardsdatascience.com/selecting-the-best-machine-learning-algorithm-for-your-regression-problem-20c330bad4ef
+
 
 # Kotlin
 
@@ -42,8 +44,10 @@ tags: [kotlin, java, software_engineering]
 
 - [Decision Trees — An Intuitive Introduction](https://medium.com/x8-the-ai-community/decision-trees-an-intuitive-introduction-86c2b39c1a6c)
 - [The Random Forest Algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)
+- [Interpretable Machine Learning - Extracting human understandable insights from any Machine Learning model](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b)
 
 # Reactive programming
 
 - [The fight for performance – Is reactive programming the right approach?](https://jaxenter.com/the-fight-for-performance-157515.html)
 - [Demystifying Functional Reactive Programming](https://itnext.io/demystifying-functional-reactive-programming-67767dbe520b)
+- [Going Reactive with Spring, Coroutines and Kotlin Flow](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow)
