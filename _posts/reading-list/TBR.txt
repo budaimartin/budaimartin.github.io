@@ -2,6 +2,7 @@ ARTICLES
 
 How to make sense of Kotlin coroutines: https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93
 Understanding JSP Servlets: https://itnext.io/understanding-jsp-servlets-2488e492859a
+Five important lessons from four years as a software developer: https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226
 
 VIDEOS
 
