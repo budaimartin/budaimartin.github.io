@@ -1,11 +1,10 @@
 ARTICLES
 
-How to make sense of Kotlin coroutines: https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93
-Understanding JSP Servlets: https://itnext.io/understanding-jsp-servlets-2488e492859a
-Five important lessons from four years as a software developer: https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226
+- [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
+- [Understanding JSP Servlets](https://itnext.io/understanding-jsp-servlets-2488e492859a)
+- [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
 
 VIDEOS
 
-KotlinConf 2017 - Deep Dive into Coroutines on JVM by Roman Elizarov: https://www.youtube.com/watch?v=YrrUCSi72E8
-KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov: https://www.youtube.com/watch?v=a3agLJQ6vt8
+- [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramariam (video)](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
 
