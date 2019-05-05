@@ -18,11 +18,11 @@ Of course, [when you're using iTunes](https://www.macworld.co.uk/how-to/iphone/h
 
 # Linux's relationship with iDevices
 
-I rather leave this section alone... Really, [there's no official support](https://www.lifewire.com/how-to-use-itunes-on-linux-1999251) and [workarounds](https://www.libimobiledevice.org/) get patched all the times.
+I'd rather leave this section empty... Really, [there's no official support](https://www.lifewire.com/how-to-use-itunes-on-linux-1999251) and [workarounds](https://www.libimobiledevice.org/) get patched all the times.
 
 # Change ringtone without iTunes
 
-But the good new is: [there's a way](https://www.makeuseof.com/tag/create-free-ringtones-iphone/)!
+But the good news is: [there's a way](https://www.makeuseof.com/tag/create-free-ringtones-iphone/)!
 
 1. First, create your ringtone. It can be in any format, you don't need to convert it to M4R or AAC.
 2. You now need to upload it to your device so it can be accessed through Files. Really, it can be anywhere: I used the folder of Excel documents when I copied it from my Ubuntu.
