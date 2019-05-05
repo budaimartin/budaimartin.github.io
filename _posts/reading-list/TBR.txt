@@ -3,6 +3,12 @@ ARTICLES
 - [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
 - [Understanding JSP Servlets](https://itnext.io/understanding-jsp-servlets-2488e492859a)
 - [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
+- [The Good and the Bad of Java Programming](https://hackernoon.com/the-good-and-the-bad-of-java-programming-eeaee8918ea)
+- [Introduction to Genetic Algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
+- [Introduction to Java 8 Parallel Stream](https://medium.com/javarevisited/java-8-parallel-stream-java2blog-e1254e593763)
+- [Beyond Coding — Soft skills to avoid project failures](https://medium.com/@viral_shah/beyond-coding-soft-skills-to-avoid-project-failures-4ed7821fa93a)
+- [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-the-power-of-when-f0ac616ddd1a)
+- [Five Methods to Debug your Neural Network](https://towardsdatascience.com/five-methods-to-debug-your-neural-network-6fc7dc686929)
 
 VIDEOS
 
