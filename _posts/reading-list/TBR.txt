@@ -1,16 +1,30 @@
 ARTICLES
 
+Kotlin
+
 - [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
-- [Understanding JSP Servlets](https://itnext.io/understanding-jsp-servlets-2488e492859a)
-- [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
-- [The Good and the Bad of Java Programming](https://hackernoon.com/the-good-and-the-bad-of-java-programming-eeaee8918ea)
-- [Introduction to Genetic Algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
-- [Introduction to Java 8 Parallel Stream](https://medium.com/javarevisited/java-8-parallel-stream-java2blog-e1254e593763)
-- [Beyond Coding — Soft skills to avoid project failures](https://medium.com/@viral_shah/beyond-coding-soft-skills-to-avoid-project-failures-4ed7821fa93a)
 - [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-the-power-of-when-f0ac616ddd1a)
+
+Java
+
+- [Understanding JSP Servlets](https://itnext.io/understanding-jsp-servlets-2488e492859a)
+- [The Good and the Bad of Java Programming](https://hackernoon.com/the-good-and-the-bad-of-java-programming-eeaee8918ea)
+- [Introduction to Java 8 Parallel Stream](https://medium.com/javarevisited/java-8-parallel-stream-java2blog-e1254e593763)
+
+Software Engineering + Soft?
+- [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
+- [Beyond Coding — Soft skills to avoid project failures](https://medium.com/@viral_shah/beyond-coding-soft-skills-to-avoid-project-failures-4ed7821fa93a)
+- [Your CS Degree Won’t Prepare You For Angry Users, Legacy Code, or the Whims of Other Engineers](https://hackernoon.com/your-cs-degree-wont-prepare-you-for-angry-users-legacy-code-or-the-whims-of-other-engineers-64a43595ec63)
+- [Avoid ugly If/else blocks & make your code modular with Strategy](https://itnext.io/avoid-ugly-if-else-blocks-make-your-code-modular-with-strategy-1c3364b2f920)
+- [Why deadlines and sprints are bad for you](https://medium.com/@niant/why-deadlines-and-sprints-are-bad-for-you-7ee87be5d0f0)
+- [https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4](https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4)
+
+Machine Learning
+
+- [Introduction to Genetic Algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 - [Five Methods to Debug your Neural Network](https://towardsdatascience.com/five-methods-to-debug-your-neural-network-6fc7dc686929)
+- [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
 VIDEOS
 
 - [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramariam (video)](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
-
