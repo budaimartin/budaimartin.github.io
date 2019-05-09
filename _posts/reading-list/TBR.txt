@@ -1,15 +1,19 @@
 ARTICLES
 
+- [Consistency Through Compensation in Microservices](https://dzone.com/articles/consistency-thru-compensation-in-micro-services)
+
 Kotlin
 
 - [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
 - [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-the-power-of-when-f0ac616ddd1a)
+- [Cold flows, hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
 
 Java
 
 - [Understanding JSP Servlets](https://itnext.io/understanding-jsp-servlets-2488e492859a)
 - [The Good and the Bad of Java Programming](https://hackernoon.com/the-good-and-the-bad-of-java-programming-eeaee8918ea)
 - [Introduction to Java 8 Parallel Stream](https://medium.com/javarevisited/java-8-parallel-stream-java2blog-e1254e593763)
+- [Heterogeneous Comparisons](https://www.javaspecialists.eu/archive/Issue269.html)
 
 Software Engineering + Soft?
 - [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
@@ -18,12 +22,16 @@ Software Engineering + Soft?
 - [Avoid ugly If/else blocks & make your code modular with Strategy](https://itnext.io/avoid-ugly-if-else-blocks-make-your-code-modular-with-strategy-1c3364b2f920)
 - [Why deadlines and sprints are bad for you](https://medium.com/@niant/why-deadlines-and-sprints-are-bad-for-you-7ee87be5d0f0)
 - [https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4](https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4)
+- [Why There’s so Much Burnout in Software and What To Do About It](https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc)
 
 Machine Learning
 
 - [Introduction to Genetic Algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 - [Five Methods to Debug your Neural Network](https://towardsdatascience.com/five-methods-to-debug-your-neural-network-6fc7dc686929)
 - [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+- [Create a complete Machine learning web application using React and Flask](https://towardsdatascience.com/create-a-complete-machine-learning-web-application-using-react-and-flask-859340bddb33)
+- [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
+
 
 VIDEOS
 
