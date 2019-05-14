@@ -23,6 +23,7 @@ Software Engineering + Soft?
 - [Why deadlines and sprints are bad for you](https://medium.com/@niant/why-deadlines-and-sprints-are-bad-for-you-7ee87be5d0f0)
 - [https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4](https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4)
 - [Why There’s so Much Burnout in Software and What To Do About It](https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc)
+- [When code turns into a horror story](https://medium.com/@PurpleGreenLemon/when-code-turns-into-a-horror-story-8d782dfe7274)
 
 Machine Learning
 
@@ -32,7 +33,8 @@ Machine Learning
 - [Create a complete Machine learning web application using React and Flask](https://towardsdatascience.com/create-a-complete-machine-learning-web-application-using-react-and-flask-859340bddb33)
 - [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
 - [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-
+- [Building Games With Artificial Intelligence](https://medium.com/code-gin/building-games-with-artificial-intelligence-fc4f166c9d91)
+- [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
 
 VIDEOS
 
