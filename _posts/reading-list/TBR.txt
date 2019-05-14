@@ -2,11 +2,6 @@ ARTICLES
 
 - [Consistency Through Compensation in Microservices](https://dzone.com/articles/consistency-thru-compensation-in-micro-services)
 
-Kotlin
-
-- [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-the-power-of-when-f0ac616ddd1a)
-- [Cold flows, hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
-
 Java
 
 - [Understanding JSP Servlets](https://itnext.io/understanding-jsp-servlets-2488e492859a)
@@ -16,13 +11,8 @@ Java
 
 Software Engineering + Soft?
 - [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
-- [Beyond Coding — Soft skills to avoid project failures](https://medium.com/@viral_shah/beyond-coding-soft-skills-to-avoid-project-failures-4ed7821fa93a)
-- [Your CS Degree Won’t Prepare You For Angry Users, Legacy Code, or the Whims of Other Engineers](https://hackernoon.com/your-cs-degree-wont-prepare-you-for-angry-users-legacy-code-or-the-whims-of-other-engineers-64a43595ec63)
 - [Avoid ugly If/else blocks & make your code modular with Strategy](https://itnext.io/avoid-ugly-if-else-blocks-make-your-code-modular-with-strategy-1c3364b2f920)
-- [Why deadlines and sprints are bad for you](https://medium.com/@niant/why-deadlines-and-sprints-are-bad-for-you-7ee87be5d0f0)
 - [https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4](https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4)
-- [Why There’s so Much Burnout in Software and What To Do About It](https://hackernoon.com/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc)
-- [When code turns into a horror story](https://medium.com/@PurpleGreenLemon/when-code-turns-into-a-horror-story-8d782dfe7274)
 
 Machine Learning
 
@@ -35,6 +25,8 @@ Machine Learning
 - [Building Games With Artificial Intelligence](https://medium.com/code-gin/building-games-with-artificial-intelligence-fc4f166c9d91)
 - [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
 
+
 VIDEOS
 
-- [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramariam (video)](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
+- [Kotlin for Java Programmers by Venkat Subramaniam (video)](https://www.youtube.com/watch?v=7EVXypZDOos)
+- [KotlinConf 2018 - Creating Internal DSLs in Kotlin by Venkat Subramaniam (video)](https://www.youtube.com/watch?v=JzTeAM8N1-o)
