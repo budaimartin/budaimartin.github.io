@@ -1,7 +1,5 @@
 ARTICLES
 
-- [Consistency Through Compensation in Microservices](https://dzone.com/articles/consistency-thru-compensation-in-micro-services)
-
 Java
 
 - [Understanding JSP Servlets](https://itnext.io/understanding-jsp-servlets-2488e492859a)
@@ -9,9 +7,13 @@ Java
 - [Introduction to Java 8 Parallel Stream](https://medium.com/javarevisited/java-8-parallel-stream-java2blog-e1254e593763)
 - [Heterogeneous Comparisons](https://www.javaspecialists.eu/archive/Issue269.html)
 
-Software Engineering + Soft?
-- [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
+Software Architecture
+
+- [Consistency Through Compensation in Microservices](https://dzone.com/articles/consistency-thru-compensation-in-micro-services)
 - [Avoid ugly If/else blocks & make your code modular with Strategy](https://itnext.io/avoid-ugly-if-else-blocks-make-your-code-modular-with-strategy-1c3364b2f920)
+
+Software Engineering
+- [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
 - [https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4](https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4)
 
 Machine Learning
@@ -30,3 +32,4 @@ VIDEOS
 
 - [Kotlin for Java Programmers by Venkat Subramaniam (video)](https://www.youtube.com/watch?v=7EVXypZDOos)
 - [KotlinConf 2018 - Creating Internal DSLs in Kotlin by Venkat Subramaniam (video)](https://www.youtube.com/watch?v=JzTeAM8N1-o)
+
