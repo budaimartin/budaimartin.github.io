@@ -4,7 +4,6 @@ ARTICLES
 
 Kotlin
 
-- [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
 - [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-the-power-of-when-f0ac616ddd1a)
 - [Cold flows, hot channels](https://medium.com/@elizarov/cold-flows-hot-channels-d74769805f9)
 
