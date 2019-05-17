@@ -6,11 +6,19 @@ Java
 - [The Good and the Bad of Java Programming](https://hackernoon.com/the-good-and-the-bad-of-java-programming-eeaee8918ea)
 - [Introduction to Java 8 Parallel Stream](https://medium.com/javarevisited/java-8-parallel-stream-java2blog-e1254e593763)
 - [Heterogeneous Comparisons](https://www.javaspecialists.eu/archive/Issue269.html)
+- [Java is not Dying (Yet)](https://medium.com/@simone.pezzano/java-is-not-dying-yet-67ac716984ae)
+
+Kotlin
+
+- [An introduction to context-oriented programming in Kotlin](https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2)
+- [Diving deeper into context-oriented programming in Kotlin](https://medium.com/@altavir/diving-deeper-into-context-oriented-programming-in-kotlin-3ecb4ec38814)
 
 Software Architecture
 
 - [Consistency Through Compensation in Microservices](https://dzone.com/articles/consistency-thru-compensation-in-micro-services)
 - [Avoid ugly If/else blocks & make your code modular with Strategy](https://itnext.io/avoid-ugly-if-else-blocks-make-your-code-modular-with-strategy-1c3364b2f920)
+- [Spring Cloud Introduces Pluggable Circuit-Breaker Interface](https://www.infoq.com/news/2019/05/spring-cloud-pluggable-circuit) ??
+- [Null is your friend, not a mistake](https://medium.com/@elizarov/null-is-your-friend-not-a-mistake-b63ff1751dd5)
 
 Software Engineering
 - [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
@@ -26,10 +34,9 @@ Machine Learning
 - [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 - [Building Games With Artificial Intelligence](https://medium.com/code-gin/building-games-with-artificial-intelligence-fc4f166c9d91)
 - [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
-
+- [Using the ‘What-If Tool’ to investigate Machine Learning models](https://towardsdatascience.com/using-what-if-tool-to-investigate-machine-learning-models-913c7d4118f)
 
 VIDEOS
 
 - [Kotlin for Java Programmers by Venkat Subramaniam (video)](https://www.youtube.com/watch?v=7EVXypZDOos)
 - [KotlinConf 2018 - Creating Internal DSLs in Kotlin by Venkat Subramaniam (video)](https://www.youtube.com/watch?v=JzTeAM8N1-o)
-
