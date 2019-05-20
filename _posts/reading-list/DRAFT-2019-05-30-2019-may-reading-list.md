@@ -3,7 +3,7 @@ layout: post
 title:  "2019 May Reading List"
 date:   2019-05-30 16:50:00 +0200
 categories: [Reading List]
-tags: [kotlin, software_engineering, soft_skills]
+tags: [kotlin, software_architecture software_engineering, soft_skills]
 ---
 
 # Kotlin
@@ -13,6 +13,11 @@ tags: [kotlin, software_engineering, soft_skills]
 - [KotlinConf 2017 - Deep Dive into Coroutines on JVM by Roman Elizarov (video)](https://www.youtube.com/watch?v=YrrUCSi72E8)
 - [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov (video)](https://www.youtube.com/watch?v=a3agLJQ6vt8)
 - [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramariam (video)](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
+- [KotlinConf 2018 - Creating Internal DSLs in Kotlin by Venkat Subramaniam (video)](https://www.youtube.com/watch?v=JzTeAM8N1-o)
+
+# Software Architecture
+
+- [Null is your friend, not a mistake](https://medium.com/@elizarov/null-is-your-friend-not-a-mistake-b63ff1751dd5)
 
 # Software Engineering
 
