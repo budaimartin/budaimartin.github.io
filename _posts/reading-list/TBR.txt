@@ -1,12 +1,5 @@
 ARTICLES
 
-Java
-
-- [Understanding JSP Servlets](https://itnext.io/understanding-jsp-servlets-2488e492859a)
-- [The Good and the Bad of Java Programming](https://hackernoon.com/the-good-and-the-bad-of-java-programming-eeaee8918ea)
-- [Introduction to Java 8 Parallel Stream](https://medium.com/javarevisited/java-8-parallel-stream-java2blog-e1254e593763)
-- [Heterogeneous Comparisons](https://www.javaspecialists.eu/archive/Issue269.html)
-
 Kotlin
 
 - [An introduction to context-oriented programming in Kotlin](https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2)
@@ -33,4 +26,3 @@ Machine Learning
 - [Building Games With Artificial Intelligence](https://medium.com/code-gin/building-games-with-artificial-intelligence-fc4f166c9d91)
 - [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
 - [Using the ‘What-If Tool’ to investigate Machine Learning models](https://towardsdatascience.com/using-what-if-tool-to-investigate-machine-learning-models-913c7d4118f)
-

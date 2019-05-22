@@ -3,8 +3,12 @@ layout: post
 title:  "2019 May Reading List"
 date:   2019-05-30 16:50:00 +0200
 categories: [Reading List]
-tags: [kotlin, software_architecture software_engineering, soft_skills]
+tags: [java, kotlin, software_architecture software_engineering, soft_skills]
 ---
+
+# Java
+
+- [Handling exceptions functional style](https://javax0.wordpress.com/2019/05/01/handling-exceptions-functional-style/)
 
 # Kotlin
 
