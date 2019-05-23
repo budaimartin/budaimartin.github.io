@@ -3,7 +3,7 @@ layout: post
 title:  "2019 May Reading List"
 date:   2019-05-30 16:50:00 +0200
 categories: [Reading List]
-tags: [java, kotlin, software_architecture software_engineering, soft_skills]
+tags: [java, kotlin, machine_learning, software_architecture software_engineering, soft_skills]
 ---
 
 # Java
@@ -18,6 +18,11 @@ tags: [java, kotlin, software_architecture software_engineering, soft_skills]
 - [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov (video)](https://www.youtube.com/watch?v=a3agLJQ6vt8)
 - [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramariam (video)](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
 - [KotlinConf 2018 - Creating Internal DSLs in Kotlin by Venkat Subramaniam (video)](https://www.youtube.com/watch?v=JzTeAM8N1-o)
+
+# Machine Learning
+
+- [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
+- [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
 
 # Software Architecture
 
