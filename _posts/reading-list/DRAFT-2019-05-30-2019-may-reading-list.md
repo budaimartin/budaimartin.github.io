@@ -18,6 +18,7 @@ tags: [java, kotlin, machine_learning, software_architecture software_engineerin
 - [KotlinConf 2018 - Kotlin Coroutines in Practice by Roman Elizarov (video)](https://www.youtube.com/watch?v=a3agLJQ6vt8)
 - [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramariam (video)](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
 - [KotlinConf 2018 - Creating Internal DSLs in Kotlin by Venkat Subramaniam (video)](https://www.youtube.com/watch?v=JzTeAM8N1-o)
+- [KotlinConf 2017 - Kotlin Puzzlers by Anton Keks (video)](https://www.youtube.com/watch?v=ukwVzLq_pHk)
 
 # Machine Learning
 

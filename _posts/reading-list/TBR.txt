@@ -4,7 +4,6 @@ Kotlin
 
 - [An introduction to context-oriented programming in Kotlin](https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2)
 - [Diving deeper into context-oriented programming in Kotlin](https://medium.com/@altavir/diving-deeper-into-context-oriented-programming-in-kotlin-3ecb4ec38814)
-- [KotlinConf 2017 - Kotlin Puzzlers by Anton Keks (video)](https://www.youtube.com/watch?v=ukwVzLq_pHk)
 - [KotlinConf 2018 - Kotlin Puzzlers, vol 2 by Anton Keks (video)](https://www.youtube.com/watch?v=Xq9vBZs0j-8)
 
 Software Architecture
