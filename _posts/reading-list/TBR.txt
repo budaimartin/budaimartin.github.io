@@ -26,3 +26,7 @@ Machine Learning
 - [Building Games With Artificial Intelligence](https://medium.com/code-gin/building-games-with-artificial-intelligence-fc4f166c9d91)
 - [Using the ‘What-If Tool’ to investigate Machine Learning models](https://towardsdatascience.com/using-what-if-tool-to-investigate-machine-learning-models-913c7d4118f)
 - [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
+
+???
+
+- [What Haskell taught us when we were not looking - Eric Torreborre (video)](https://www.youtube.com/watch?v=9liCkM3bDig)
