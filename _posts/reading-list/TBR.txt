@@ -1,5 +1,9 @@
 ARTICLES
 
+Java
+
+- [Coroutines in pure Java](https://medium.com/@esocogmbh/coroutines-in-pure-java-65661a379c85)
+
 Kotlin
 
 - [An introduction to context-oriented programming in Kotlin](https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2)
@@ -15,6 +19,7 @@ Software Architecture
 Software Engineering
 - [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
 - [https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4](https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4)
+- [5 Things Better than a Computer Science Degree](https://medium.com/better-programming/5-things-better-than-computer-science-degree-f8acb8061c09)
 
 Machine Learning
 
@@ -26,6 +31,7 @@ Machine Learning
 - [Building Games With Artificial Intelligence](https://medium.com/code-gin/building-games-with-artificial-intelligence-fc4f166c9d91)
 - [Using the ‘What-If Tool’ to investigate Machine Learning models](https://towardsdatascience.com/using-what-if-tool-to-investigate-machine-learning-models-913c7d4118f)
 - [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
+- [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 
 ???
 
