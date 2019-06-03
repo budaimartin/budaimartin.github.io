@@ -8,6 +8,7 @@ Kotlin
 
 - [An introduction to context-oriented programming in Kotlin](https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2)
 - [Diving deeper into context-oriented programming in Kotlin](https://medium.com/@altavir/diving-deeper-into-context-oriented-programming-in-kotlin-3ecb4ec38814)
+- [The Power Of Kotlin Sealed Classes](https://medium.com/@nicolas.comet/the-power-of-kotlin-sealed-classes-74f1ad5e0c7c)
 - [KotlinConf 2018 - Kotlin Puzzlers, vol 2 by Anton Keks (video)](https://www.youtube.com/watch?v=Xq9vBZs0j-8)
 
 Software Architecture
@@ -32,7 +33,8 @@ Machine Learning
 - [Using the ‘What-If Tool’ to investigate Machine Learning models](https://towardsdatascience.com/using-what-if-tool-to-investigate-machine-learning-models-913c7d4118f)
 - [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
 - [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+- [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
 
-???
+Functional programming
 
 - [What Haskell taught us when we were not looking - Eric Torreborre (video)](https://www.youtube.com/watch?v=9liCkM3bDig)
