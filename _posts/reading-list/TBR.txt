@@ -15,7 +15,11 @@ Software Architecture
 
 - [Consistency Through Compensation in Microservices](https://dzone.com/articles/consistency-thru-compensation-in-micro-services)
 - [Avoid ugly If/else blocks & make your code modular with Strategy](https://itnext.io/avoid-ugly-if-else-blocks-make-your-code-modular-with-strategy-1c3364b2f920)
-- [Spring Cloud Introduces Pluggable Circuit-Breaker Interface](https://www.infoq.com/news/2019/05/spring-cloud-pluggable-circuit) ??
+
+Spring Cloud
+
+- [Spring Cloud Introduces Pluggable Circuit-Breaker Interface](https://www.infoq.com/news/2019/05/spring-cloud-pluggable-circuit)
+- [Consumer-driven Contracts with Spring Cloud Contract](https://rieckpil.de/howto-consumer-driven-contracts-with-spring-cloud-contract/)
 
 Software Engineering
 - [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
@@ -38,3 +42,8 @@ Machine Learning
 Functional programming
 
 - [What Haskell taught us when we were not looking - Eric Torreborre (video)](https://www.youtube.com/watch?v=9liCkM3bDig)
+
+Reactive programming
+
+- [Reactive Relational Database Transactions](https://paluch.biz/blog/179-reactive-relational-database-transactions.html)
+- [Spring Tips: Reactive Transactions (video)](https://spring.io/blog/2019/05/22/spring-tips-reactive-transactions)
