@@ -41,12 +41,13 @@ Machine Learning
 - [Step-by-step understanding LSTM Autoencoder layers](https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352)
 - [Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3)
 - [Dealing with the Lack of Data in Machine Learning](https://medium.com/predict/dealing-with-the-lack-of-data-in-machine-learning-725f2abd2b92)
-
-Functional programming
-
-- [What Haskell taught us when we were not looking - Eric Torreborre (video)](https://www.youtube.com/watch?v=9liCkM3bDig)
+- [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 
 Reactive programming
 
 - [Reactive Relational Database Transactions](https://paluch.biz/blog/179-reactive-relational-database-transactions.html)
 - [Spring Tips: Reactive Transactions (video)](https://spring.io/blog/2019/05/22/spring-tips-reactive-transactions)
+
+GraphQL
+
+- [Building a GraphQL Server with Spring Boot](https://www.pluralsight.com/guides/building-a-graphql-server-with-spring-boot)
