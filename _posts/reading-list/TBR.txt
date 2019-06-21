@@ -7,7 +7,6 @@ Kotlin
 - [An introduction to context-oriented programming in Kotlin](https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2)
 - [Diving deeper into context-oriented programming in Kotlin](https://medium.com/@altavir/diving-deeper-into-context-oriented-programming-in-kotlin-3ecb4ec38814)
 - [The Power Of Kotlin Sealed Classes](https://medium.com/@nicolas.comet/the-power-of-kotlin-sealed-classes-74f1ad5e0c7c)
-- [KotlinConf 2018 - Kotlin Puzzlers, vol 2 by Anton Keks (video)](https://www.youtube.com/watch?v=Xq9vBZs0j-8)
 - [Reactive Streams and Kotlin Flows](https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4)
 
 Software Architecture
@@ -16,7 +15,7 @@ Software Architecture
 - [Avoid ugly If/else blocks & make your code modular with Strategy](https://itnext.io/avoid-ugly-if-else-blocks-make-your-code-modular-with-strategy-1c3364b2f920)
 - [Repeating without looping or recursion](https://proandroiddev.com/repeating-without-looping-or-recursion-6443e5bf88c7)
 
-Spring Cloud
+Spring
 
 - [Spring Cloud Introduces Pluggable Circuit-Breaker Interface](https://www.infoq.com/news/2019/05/spring-cloud-pluggable-circuit)
 - [Consumer-driven Contracts with Spring Cloud Contract](https://rieckpil.de/howto-consumer-driven-contracts-with-spring-cloud-contract/)
@@ -42,11 +41,6 @@ Machine Learning
 - [Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3)
 - [Dealing with the Lack of Data in Machine Learning](https://medium.com/predict/dealing-with-the-lack-of-data-in-machine-learning-725f2abd2b92)
 - [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
-
-Reactive programming
-
-- [Reactive Relational Database Transactions](https://paluch.biz/blog/179-reactive-relational-database-transactions.html)
-- [Spring Tips: Reactive Transactions (video)](https://spring.io/blog/2019/05/22/spring-tips-reactive-transactions)
 
 GraphQL
 
