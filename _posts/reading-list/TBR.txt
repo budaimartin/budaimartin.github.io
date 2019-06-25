@@ -1,8 +1,3 @@
-Software Engineering
-- [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
-- [https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4](https://blog.usejournal.com/losing-my-perfect-job-d9b618e934b4)
-- [5 Things Better than a Computer Science Degree](https://medium.com/better-programming/5-things-better-than-computer-science-degree-f8acb8061c09)
-
 Machine Learning
 
 - [Introduction to Genetic Algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
@@ -19,6 +14,7 @@ Machine Learning
 - [Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3)
 - [Dealing with the Lack of Data in Machine Learning](https://medium.com/predict/dealing-with-the-lack-of-data-in-machine-learning-725f2abd2b92)
 - [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
+- [Neural Networks for Music Generation](https://towardsdatascience.com/neural-networks-for-music-generation-97c983b50204)
 
 GraphQL
 
