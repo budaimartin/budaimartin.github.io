@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019 June Reading List"
-date:   2019-06-30 21:20:00 +0200
+date:   2019-06-28 16:05:00 +0200
 categories: [Reading List]
 tags: [functional_programming, java, kotlin, machine_learning, software_architecture, software_engineering, spring]
 ---
