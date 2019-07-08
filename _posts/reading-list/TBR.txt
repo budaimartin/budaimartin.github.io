@@ -1,3 +1,7 @@
+Kotlin
+
+- [A Taste of Functional Programming in Kotlin](https://medium.com/swlh/a-taste-of-functional-programming-in-kotlin-3b163b5c8101)
+
 Machine Learning
 
 - [Introduction to Genetic Algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
@@ -15,7 +19,24 @@ Machine Learning
 - [Dealing with the Lack of Data in Machine Learning](https://medium.com/predict/dealing-with-the-lack-of-data-in-machine-learning-725f2abd2b92)
 - [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 - [Neural Networks for Music Generation](https://towardsdatascience.com/neural-networks-for-music-generation-97c983b50204)
+- [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a)
+- [Understanding Learning Rate](https://towardsdatascience.com/https-medium-com-dashingaditya-rakhecha-understanding-learning-rate-dd5da26bb6de)
 
 GraphQL
 
 - [Building a GraphQL Server with Spring Boot](https://www.pluralsight.com/guides/building-a-graphql-server-with-spring-boot)
+
+Functional programming
+
+- [Dysfunctional programming in Java 5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
+	https://medium.com/@johnmcclean
+
+Soft
+
+- [How to Tell a Chatty Co-Worker You Don’t Want to Talk](https://forge.medium.com/how-to-tell-a-chatty-co-worker-you-dont-want-to-talk-4927c6175e40)
+- [How to Tell an Employee Their Work Isn’t Good Enough](https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528)
+
+???
+
+- [7 Lessons Millennials Taught Me About Work](https://medium.com/s/youthnow/7-lessons-millennials-taught-me-about-work-7c19ab69db1e)
+- [Networking Events Are Bullshit](https://forge.medium.com/networking-events-are-bullshit-1193f9ff35cb)
