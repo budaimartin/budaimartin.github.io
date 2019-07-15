@@ -1,10 +1,10 @@
 Kotlin
 
 - [A Taste of Functional Programming in Kotlin](https://medium.com/swlh/a-taste-of-functional-programming-in-kotlin-3b163b5c8101)
+- [Exceptions in Kotlin Flows](https://medium.com/@elizarov/exceptions-in-kotlin-flows-b59643c940fb)
 
 Machine Learning
 
-- [Introduction to Genetic Algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 - [Five Methods to Debug your Neural Network](https://towardsdatascience.com/five-methods-to-debug-your-neural-network-6fc7dc686929)
 - [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 - [Create a complete Machine learning web application using React and Flask](https://towardsdatascience.com/create-a-complete-machine-learning-web-application-using-react-and-flask-859340bddb33)
@@ -21,6 +21,7 @@ Machine Learning
 - [Neural Networks for Music Generation](https://towardsdatascience.com/neural-networks-for-music-generation-97c983b50204)
 - [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a)
 - [Understanding Learning Rate](https://towardsdatascience.com/https-medium-com-dashingaditya-rakhecha-understanding-learning-rate-dd5da26bb6de)
+- [Why default CNN are broken in Keras and how to fix them](https://towardsdatascience.com/why-default-cnn-are-broken-in-keras-and-how-to-fix-them-ce295e5e5f2)
 
 GraphQL
 
@@ -30,13 +31,22 @@ Functional programming
 
 - [Dysfunctional programming in Java 5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
 	https://medium.com/@johnmcclean
+	
+Spring
+
+- [Streaming Data with Spring Boot RESTful Web Service](https://medium.com/swlh/streaming-data-with-spring-boot-restful-web-service-87522511c071)
 
 Soft
 
-- [How to Tell a Chatty Co-Worker You Don’t Want to Talk](https://forge.medium.com/how-to-tell-a-chatty-co-worker-you-dont-want-to-talk-4927c6175e40)
 - [How to Tell an Employee Their Work Isn’t Good Enough](https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528)
+- [Why You Should Embrace Your Impostor Syndrome](https://forge.medium.com/why-you-should-embrace-your-impostor-syndrome-acecbacf99d9)
+
+Software Engineering
+
+- [The Big Question Software Engineers Should Keep Asking Themselves](https://medium.com/better-programming/the-big-question-software-engineers-should-keep-asking-themselves-c050d20cf607)
 
 ???
 
 - [7 Lessons Millennials Taught Me About Work](https://medium.com/s/youthnow/7-lessons-millennials-taught-me-about-work-7c19ab69db1e)
 - [Networking Events Are Bullshit](https://forge.medium.com/networking-events-are-bullshit-1193f9ff35cb)
+- [Jony Ive’s Mistakes: When Beautiful Design Is Bad Design](https://onezero.medium.com/jony-ives-errors-why-ugly-isn-t-always-bad-design-but-beautiful-sometimes-is-9c5fde886263)
