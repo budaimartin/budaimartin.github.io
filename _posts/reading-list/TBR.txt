@@ -2,6 +2,7 @@ Kotlin
 
 - [A Taste of Functional Programming in Kotlin](https://medium.com/swlh/a-taste-of-functional-programming-in-kotlin-3b163b5c8101)
 - [Exceptions in Kotlin Flows](https://medium.com/@elizarov/exceptions-in-kotlin-flows-b59643c940fb)
+- [Callbacks and Kotlin Flows](https://medium.com/@elizarov/callbacks-and-kotlin-flows-2b53aa2525cf)
 
 Machine Learning
 
@@ -22,6 +23,8 @@ Machine Learning
 - [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a)
 - [Understanding Learning Rate](https://towardsdatascience.com/https-medium-com-dashingaditya-rakhecha-understanding-learning-rate-dd5da26bb6de)
 - [Why default CNN are broken in Keras and how to fix them](https://towardsdatascience.com/why-default-cnn-are-broken-in-keras-and-how-to-fix-them-ce295e5e5f2)
+- [Why we should fear not rebellious, but obedient AI](https://towardsdatascience.com/why-we-should-fear-not-rebellious-but-obedient-ai-c8c2dceb3408)
+- [Perceptron Learning Algorithm: A Graphical Explanation Of Why It Works](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975)
 
 GraphQL
 
@@ -40,6 +43,7 @@ Soft
 
 - [How to Tell an Employee Their Work Isn’t Good Enough](https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528)
 - [Why You Should Embrace Your Impostor Syndrome](https://forge.medium.com/why-you-should-embrace-your-impostor-syndrome-acecbacf99d9)
+- [10 Bad Habits of Unsuccessful People](https://forge.medium.com/10-habits-of-unsuccessful-people-you-dont-want-to-copy-d401ac677c91)
 
 Software Engineering
 
