@@ -3,6 +3,7 @@ Kotlin
 - [A Taste of Functional Programming in Kotlin](https://medium.com/swlh/a-taste-of-functional-programming-in-kotlin-3b163b5c8101)
 - [Exceptions in Kotlin Flows](https://medium.com/@elizarov/exceptions-in-kotlin-flows-b59643c940fb)
 - [Callbacks and Kotlin Flows](https://medium.com/@elizarov/callbacks-and-kotlin-flows-2b53aa2525cf)
+- [Kotlin: Type aliases and inline classes](https://itnext.io/kotlin-type-aliases-and-inline-classes-ebe9d75f6715)
 
 Machine Learning
 
@@ -25,6 +26,8 @@ Machine Learning
 - [Why default CNN are broken in Keras and how to fix them](https://towardsdatascience.com/why-default-cnn-are-broken-in-keras-and-how-to-fix-them-ce295e5e5f2)
 - [Why we should fear not rebellious, but obedient AI](https://towardsdatascience.com/why-we-should-fear-not-rebellious-but-obedient-ai-c8c2dceb3408)
 - [Perceptron Learning Algorithm: A Graphical Explanation Of Why It Works](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975)
+- [Adam — latest trends in deep learning optimization](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
+- [An introduction to Reinforcement Learning](https://medium.com/free-code-camp/an-introduction-to-reinforcement-learning-4339519de419)
 
 GraphQL
 
@@ -48,9 +51,12 @@ Soft
 Software Engineering
 
 - [The Big Question Software Engineers Should Keep Asking Themselves](https://medium.com/better-programming/the-big-question-software-engineers-should-keep-asking-themselves-c050d20cf607)
+- [2020 Programming Trend Predictions](https://medium.com/better-programming/2020-programming-trend-predictions-a5d6b70bec26)
+- [Uncomputable Numbers](https://medium.com/cantors-paradise/uncomputable-numbers-ee528830d295)
 
-???
+Work
 
 - [7 Lessons Millennials Taught Me About Work](https://medium.com/s/youthnow/7-lessons-millennials-taught-me-about-work-7c19ab69db1e)
 - [Networking Events Are Bullshit](https://forge.medium.com/networking-events-are-bullshit-1193f9ff35cb)
 - [Jony Ive’s Mistakes: When Beautiful Design Is Bad Design](https://onezero.medium.com/jony-ives-errors-why-ugly-isn-t-always-bad-design-but-beautiful-sometimes-is-9c5fde886263)
+- [At Work, Are You an Integrator or a Segmenter?](https://forge.medium.com/at-work-are-you-an-integrator-or-a-segmenter-a52dd40b7aa0)
