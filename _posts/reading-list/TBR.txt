@@ -53,6 +53,7 @@ Software Engineering
 - [The Big Question Software Engineers Should Keep Asking Themselves](https://medium.com/better-programming/the-big-question-software-engineers-should-keep-asking-themselves-c050d20cf607)
 - [2020 Programming Trend Predictions](https://medium.com/better-programming/2020-programming-trend-predictions-a5d6b70bec26)
 - [Uncomputable Numbers](https://medium.com/cantors-paradise/uncomputable-numbers-ee528830d295)
+- [Dear Agile, I’m Tired of Pretending](https://medium.com/columbus-egg/dear-agile-im-tired-of-pretending-d39ab6a12003)
 
 Work
 
