@@ -17,9 +17,18 @@ tags: [functional_programming, kotlin, soft_skills, software_engineering]
 - [Callbacks and Kotlin Flows](https://medium.com/@elizarov/callbacks-and-kotlin-flows-2b53aa2525cf)
 - [Kotlin: Type aliases and inline classes](https://itnext.io/kotlin-type-aliases-and-inline-classes-ebe9d75f6715)
 
+# Microservices
+
+- [Principles for Microservices Integration](https://aradhye.com/principles-for-microservices-integration/)
+- [How Integration Patterns Impact Your Microservices Architecture](https://dzone.com/articles/how-integration-patterns-impact-your-microservices)
+- Saga Pattern | How to implement business transactions using Microservices
+  - [Part 1](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/)
+  - [Part 2](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part-2/)
+
 # Software Engineering
 
 - [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
+- [Continuous integration vs. continuous delivery vs. continuous deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 
 # Soft Skills
 
