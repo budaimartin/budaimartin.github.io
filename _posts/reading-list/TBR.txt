@@ -1,3 +1,16 @@
+FROM ASMT GROUP
+
+- [Building Scalable Applications and Microservices: Adding Messaging to Your Toolbox](https://aws.amazon.com/blogs/compute/building-scalable-applications-and-microservices-adding-messaging-to-your-toolbox/)
+- [3 Powerful Estimation Techniques for Agile Teams](https://www.sitepoint.com/3-powerful-estimation-techniques-for-agile-teams/)
+- [Understanding the CAP Theorem](https://dzone.com/articles/understanding-the-cap-theorem)
+- [DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html)
+- [Burndown Chart vs. Cumulative Flow Diagram ](https://www.excella.com/insights/burndown-chart-vs-cumulative-flow-diagram-cfd)
+- [11 Best Practices and Tools to Improve the Java Code Quality](https://www.romexsoft.com/blog/improve-java-code-quality/)
+- [Pros and Cons of Test Driven Development](https://www.testingexcellence.com/pros-cons-test-driven-development/)
+- [HashMap Performance Improvements in Java 8](https://dzone.com/articles/hashmap-performance)
+- [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
+- [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+
 Machine Learning
 
 - [Five Methods to Debug your Neural Network](https://towardsdatascience.com/five-methods-to-debug-your-neural-network-6fc7dc686929)
