@@ -36,19 +36,8 @@ Soft
 
 - [10 Bad Habits of Unsuccessful People](https://forge.medium.com/10-habits-of-unsuccessful-people-you-dont-want-to-copy-d401ac677c91)
 
-Software Engineering
-
-- [The Big Question Software Engineers Should Keep Asking Themselves](https://medium.com/better-programming/the-big-question-software-engineers-should-keep-asking-themselves-c050d20cf607)
-- [2020 Programming Trend Predictions](https://medium.com/better-programming/2020-programming-trend-predictions-a5d6b70bec26)
-- [Uncomputable Numbers](https://medium.com/cantors-paradise/uncomputable-numbers-ee528830d295)
-- [Dear Agile, I’m Tired of Pretending](https://medium.com/columbus-egg/dear-agile-im-tired-of-pretending-d39ab6a12003)
-- [The Misconceptions of Agile](https://medium.com/better-programming/the-misconceptions-of-agile-5dfe3dd567b5)
-- [5 Bad Habits of Absolutely Ineffective Programmers](https://towardsdatascience.com/5-bad-habits-of-absolutely-ineffective-programmers-e74b74add9ca)
-
 Work
 
 - [7 Lessons Millennials Taught Me About Work](https://medium.com/s/youthnow/7-lessons-millennials-taught-me-about-work-7c19ab69db1e)
-- [Networking Events Are Bullshit](https://forge.medium.com/networking-events-are-bullshit-1193f9ff35cb)
 - [Jony Ive’s Mistakes: When Beautiful Design Is Bad Design](https://onezero.medium.com/jony-ives-errors-why-ugly-isn-t-always-bad-design-but-beautiful-sometimes-is-9c5fde886263)
-- [At Work, Are You an Integrator or a Segmenter?](https://forge.medium.com/at-work-are-you-an-integrator-or-a-segmenter-a52dd40b7aa0)
 - [How to Use a Job Offer to Negotiate With Your Current Boss](https://forge.medium.com/how-to-use-a-job-offer-to-negotiate-with-your-current-boss-e813b9617fdf)
