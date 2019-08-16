@@ -48,6 +48,7 @@ tags: [functional_programming, java, kotlin, microservices, security, soft_skill
 - [How to Tell a Chatty Co-Worker You Don’t Want to Talk](https://forge.medium.com/how-to-tell-a-chatty-co-worker-you-dont-want-to-talk-4927c6175e40)
 - [How to Quit a Toxic Interrupting Habit](https://forge.medium.com/how-to-quit-a-toxic-interrupting-habit-842889fdd133)
 - [Why You Should Embrace Your Impostor Syndrome](https://forge.medium.com/why-you-should-embrace-your-impostor-syndrome-acecbacf99d9)
+- [10 Bad Habits of Unsuccessful People](https://forge.medium.com/10-habits-of-unsuccessful-people-you-dont-want-to-copy-d401ac677c91)
 
 # Spring
 

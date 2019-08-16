@@ -31,10 +31,6 @@ Functional programming
 
 - [Dysfunctional programming in Java 5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
 	https://medium.com/@johnmcclean
-	
-Soft
-
-- [10 Bad Habits of Unsuccessful People](https://forge.medium.com/10-habits-of-unsuccessful-people-you-dont-want-to-copy-d401ac677c91)
 
 Work
 
