@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019 August Reading List"
-date:   2019-08-31 16:05:00 +0200
+date:   2019-08-22 16:50:00 +0200
 categories: [Reading List]
 tags: [functional_programming, java, kotlin, microservices, security, soft_skills, software_engineering, spring]
 ---
