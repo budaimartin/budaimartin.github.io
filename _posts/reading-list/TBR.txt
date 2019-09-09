@@ -1,3 +1,11 @@
+Java
+
+- [JEP 359: Records](https://jaxenter.com/jep-359-records-161403.html)
+
+Kotlin
+
+- [Dependency Injection with Koin](https://medium.com/swlh/dependency-injection-with-koin-6b6364dc8dba)
+
 Machine Learning
 
 - [Five Methods to Debug your Neural Network](https://towardsdatascience.com/five-methods-to-debug-your-neural-network-6fc7dc686929)
@@ -22,6 +30,13 @@ Machine Learning
 - [Adam — latest trends in deep learning optimization](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
 - [An introduction to Reinforcement Learning](https://medium.com/free-code-camp/an-introduction-to-reinforcement-learning-4339519de419)
 - [Understanding Dropout with the Simplified Math behind it](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
+- [Exploring Neural Networking with Kotlin Metaprogramming: a Cheaper Alternative for Deep Learning?](https://towardsdatascience.com/exploring-neural-networking-with-kotlin-metaprogramming-a-cheaper-alternative-for-deep-learning-99c416eb7d16)
+- [Understanding Input Output shapes in Convolution Neural Network | Keras](https://towardsdatascience.com/understanding-input-and-output-shapes-in-convolution-network-keras-f143923d56ca)
+
+Artificial Intelligence
+
+- [The Bayesian Brain Hypothesis](https://towardsdatascience.com/the-bayesian-brain-hypothesis-35b98847d331)
+- [How Artificial Intelligence is changing the world](https://towardsdatascience.com/how-artificial-intelligence-is-changing-the-world-343df8fe1d17)
 
 GraphQL
 
@@ -32,8 +47,32 @@ Functional programming
 - [Dysfunctional programming in Java 5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
 	https://medium.com/@johnmcclean
 
+Spring
+
+- [How to Unit Test Your Kotlin Springboot Webflux Webclient that is Calling External API - Part I](https://medium.com/@billydharmawan/part-i-how-to-unit-test-your-kotlin-springboot-webflux-webclient-that-is-calling-external-api-714ccaa186c)
+
 Work
 
 - [7 Lessons Millennials Taught Me About Work](https://medium.com/s/youthnow/7-lessons-millennials-taught-me-about-work-7c19ab69db1e)
 - [Jony Ive’s Mistakes: When Beautiful Design Is Bad Design](https://onezero.medium.com/jony-ives-errors-why-ugly-isn-t-always-bad-design-but-beautiful-sometimes-is-9c5fde886263)
 - [How to Use a Job Offer to Negotiate With Your Current Boss](https://forge.medium.com/how-to-use-a-job-offer-to-negotiate-with-your-current-boss-e813b9617fdf)
+- [How to Stop Overthinking](https://forge.medium.com/how-to-stop-overthinking-c3a98e81dc2a)
+
+Mathematics
+
+- [The Riemann Hypothesis, explained](https://medium.com/cantors-paradise/the-riemann-hypothesis-explained-fa01c1f75d3f)
+
+Devops
+
+- [Drastically Improve your Kubernetes Deployments with Helm](https://medium.com/@aevitas/drastically-improve-your-kubernetes-deployments-with-helm-5323e7f11ef8)
+
+Programming Languages
+
+- [Programming Languages of the Future](https://towardsdatascience.com/programming-languages-of-the-future-792a8af879f9)
+- [So, I Created a Programming Language](https://medium.com/young-coder/so-i-created-a-programming-language-4d9c11038d22)
+
+Software Engineering
+
+- [What to Do When You’ve Inherited Dysfunctional Code](https://medium.com/better-programming/what-to-do-when-youve-inherited-dysfunctional-code-e09822656b3a)
+- [From stuff.kt to Architecture](https://itnext.io/from-stuff-kt-to-architecture-905426799dae)
+- [Monolithic versus microservices, and all in between](https://medium.com/swlh/monolithic-vs-micro-services-and-all-in-between-7d496408ad02)
