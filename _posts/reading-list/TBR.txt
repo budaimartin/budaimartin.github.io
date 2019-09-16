@@ -75,4 +75,9 @@ Software Engineering
 
 - [What to Do When You’ve Inherited Dysfunctional Code](https://medium.com/better-programming/what-to-do-when-youve-inherited-dysfunctional-code-e09822656b3a)
 - [From stuff.kt to Architecture](https://itnext.io/from-stuff-kt-to-architecture-905426799dae)
+- [How to Be a Good Senior Developer](https://medium.com/better-programming/how-to-be-a-good-senior-developer-958948e02ada)
 - [Monolithic versus microservices, and all in between](https://medium.com/swlh/monolithic-vs-micro-services-and-all-in-between-7d496408ad02)
+
+Testing
+
+- [Waiter, There’s a Database in My Unit Test!](https://medium.com/better-programming/waiter-theres-a-database-in-my-unit-test-9698d866102e)
