@@ -41,6 +41,10 @@ Artificial Intelligence
 GraphQL
 
 - [Building a GraphQL Server with Spring Boot](https://www.pluralsight.com/guides/building-a-graphql-server-with-spring-boot)
+- [GraphQL Remote Schema Stitching in a Multi-Service Architecture](https://medium.com/provablyfair/graphql-remote-schema-stitching-in-a-multi-service-architecture-ac329037f082)
+- [GraphQL: The hero we deserve (Part 1)](https://medium.com/@chittorashobhit/graphql-the-hero-we-deserve-part-1-3a907e1706a4)
+- [The GraphQL Dataloader Pattern: Visualized](https://medium.com/@__xuorig__/the-graphql-dataloader-pattern-visualized-3064a00f319f)
+- [GraphQL and REST Level 3 (HATEOAS)](https://techblog.commercetools.com/graphql-and-rest-level-3-hateoas-70904ff1f9cf)
 
 Functional programming
 
@@ -57,6 +61,8 @@ Work
 - [Jony Ive’s Mistakes: When Beautiful Design Is Bad Design](https://onezero.medium.com/jony-ives-errors-why-ugly-isn-t-always-bad-design-but-beautiful-sometimes-is-9c5fde886263)
 - [How to Use a Job Offer to Negotiate With Your Current Boss](https://forge.medium.com/how-to-use-a-job-offer-to-negotiate-with-your-current-boss-e813b9617fdf)
 - [How to Stop Overthinking](https://forge.medium.com/how-to-stop-overthinking-c3a98e81dc2a)
+- [How to Keep Going When You Severely Doubt Yourself](https://psiloveyou.xyz/how-to-keep-going-when-you-severely-doubt-yourself-9bd6c91194d)
+- [5 Signs You’re Making The Wrong Career Move](https://medium.com/publishous/5-signs-youre-making-the-wrong-career-move-2d334ec5e91b)
 
 Mathematics
 
