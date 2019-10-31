@@ -41,6 +41,7 @@ Artificial Intelligence
 GraphQL
 
 - [Building a GraphQL Server with Spring Boot](https://www.pluralsight.com/guides/building-a-graphql-server-with-spring-boot)
+- [What in REST, How in GraphQL](https://medium.com/open-graphql/graphql-2-d18d64b06da5)
 
 Functional programming
 
@@ -77,6 +78,7 @@ Software Engineering
 - [From stuff.kt to Architecture](https://itnext.io/from-stuff-kt-to-architecture-905426799dae)
 - [How to Be a Good Senior Developer](https://medium.com/better-programming/how-to-be-a-good-senior-developer-958948e02ada)
 - [Monolithic versus microservices, and all in between](https://medium.com/swlh/monolithic-vs-micro-services-and-all-in-between-7d496408ad02)
+- [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369)
 
 Testing
 
