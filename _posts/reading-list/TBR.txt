@@ -5,6 +5,7 @@ Java
 Kotlin
 
 - [Dependency Injection with Koin](https://medium.com/swlh/dependency-injection-with-koin-6b6364dc8dba)
+- [Everything you need to know about kotlin coroutines](https://medium.com/swlh/everything-you-need-to-know-about-kotlin-coroutines-b3d94f2bc982)
 
 Machine Learning
 
@@ -52,6 +53,10 @@ Functional programming
 - [Dysfunctional programming in Java 5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
 	https://medium.com/@johnmcclean
 
+Reactive programming
+
+- [Choosing a Reactive Programming Framework for Modern Android Development](https://engineering.pandora.com/choosing-a-reactive-programming-framework-for-modern-android-development-5280e2924a5a)
+
 Spring
 
 - [How to Unit Test Your Kotlin Springboot Webflux Webclient that is Calling External API - Part I](https://medium.com/@billydharmawan/part-i-how-to-unit-test-your-kotlin-springboot-webflux-webclient-that-is-calling-external-api-714ccaa186c)
@@ -85,6 +90,7 @@ Software Engineering
 - [How to Be a Good Senior Developer](https://medium.com/better-programming/how-to-be-a-good-senior-developer-958948e02ada)
 - [Monolithic versus microservices, and all in between](https://medium.com/swlh/monolithic-vs-micro-services-and-all-in-between-7d496408ad02)
 - [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369)
+- [Microsoft Access: The Database Software That Won’t Die](https://medium.com/young-coder/microsoft-access-the-zombie-database-software-that-wont-die-5b09e389c166)
 
 Testing
 
