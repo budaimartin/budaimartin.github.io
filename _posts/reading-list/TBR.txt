@@ -1,12 +1,3 @@
-Java
-
-- [JEP 359: Records](https://jaxenter.com/jep-359-records-161403.html)
-
-Kotlin
-
-- [Dependency Injection with Koin](https://medium.com/swlh/dependency-injection-with-koin-6b6364dc8dba)
-- [Everything you need to know about kotlin coroutines](https://medium.com/swlh/everything-you-need-to-know-about-kotlin-coroutines-b3d94f2bc982)
-
 Machine Learning
 
 - [Five Methods to Debug your Neural Network](https://towardsdatascience.com/five-methods-to-debug-your-neural-network-6fc7dc686929)
@@ -57,10 +48,6 @@ Reactive programming
 
 - [Choosing a Reactive Programming Framework for Modern Android Development](https://engineering.pandora.com/choosing-a-reactive-programming-framework-for-modern-android-development-5280e2924a5a)
 
-Spring
-
-- [How to Unit Test Your Kotlin Springboot Webflux Webclient that is Calling External API - Part I](https://medium.com/@billydharmawan/part-i-how-to-unit-test-your-kotlin-springboot-webflux-webclient-that-is-calling-external-api-714ccaa186c)
-
 Work
 
 - [7 Lessons Millennials Taught Me About Work](https://medium.com/s/youthnow/7-lessons-millennials-taught-me-about-work-7c19ab69db1e)
@@ -78,10 +65,6 @@ Devops
 
 - [Drastically Improve your Kubernetes Deployments with Helm](https://medium.com/@aevitas/drastically-improve-your-kubernetes-deployments-with-helm-5323e7f11ef8)
 
-Programming Languages
-
-- [Programming Languages of the Future](https://towardsdatascience.com/programming-languages-of-the-future-792a8af879f9)
-- [So, I Created a Programming Language](https://medium.com/young-coder/so-i-created-a-programming-language-4d9c11038d22)
 
 Software Engineering
 
