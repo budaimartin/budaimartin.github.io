@@ -1,3 +1,17 @@
+Java
+
+- [On Project Loom, the Reactive model and coroutines](https://blog.frankel.ch/project-loom-reactive-coroutines/)
+- [12 recepies for using the Optional class as it's meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
+- [JVM pauses - It's more than GC](https://blanco.io/blog/jvm-safepoint-pauses/)
+- [An introductory guid to annotations and annotation processors](https://blog.frankel.ch/introductory-guide-annotation-processor/)
+- [All you wanted to know about Throwable](https://javax0.wordpress.com/2020/05/13/all-you-wanted-to-know-about-throwable/)
+- [Scanner is a weird but useful beast](https://stuartmarks.wordpress.com/2020/04/14/scanner-is-a-weird-but-useful-beast/amp/)
+- [JDK 14 Records for Spring](https://dzone.com/articles/jdk-14-records-for-spring-devs)
+
+Kotlin
+
+- [Deep recursion with coroutines](https://medium.com/@elizarov/deep-recursion-with-coroutines-7c53e15993e3)
+
 Machine Learning
 
 - [Five Methods to Debug your Neural Network](https://towardsdatascience.com/five-methods-to-debug-your-neural-network-6fc7dc686929)
@@ -18,12 +32,11 @@ Machine Learning
 - [Understanding Learning Rate](https://towardsdatascience.com/https-medium-com-dashingaditya-rakhecha-understanding-learning-rate-dd5da26bb6de)
 - [Why default CNN are broken in Keras and how to fix them](https://towardsdatascience.com/why-default-cnn-are-broken-in-keras-and-how-to-fix-them-ce295e5e5f2)
 - [Why we should fear not rebellious, but obedient AI](https://towardsdatascience.com/why-we-should-fear-not-rebellious-but-obedient-ai-c8c2dceb3408)
-- [Perceptron Learning Algorithm: A Graphical Explanation Of Why It Works](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975)
-- [Adam — latest trends in deep learning optimization](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
 - [An introduction to Reinforcement Learning](https://medium.com/free-code-camp/an-introduction-to-reinforcement-learning-4339519de419)
 - [Understanding Dropout with the Simplified Math behind it](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
 - [Exploring Neural Networking with Kotlin Metaprogramming: a Cheaper Alternative for Deep Learning?](https://towardsdatascience.com/exploring-neural-networking-with-kotlin-metaprogramming-a-cheaper-alternative-for-deep-learning-99c416eb7d16)
 - [Understanding Input Output shapes in Convolution Neural Network | Keras](https://towardsdatascience.com/understanding-input-and-output-shapes-in-convolution-network-keras-f143923d56ca)
+- [Adopting machine learning in your microservices with DJL and Spring Boot](https://idk.dev/adopting-machine-learning-in-your-microservices-with-djl-deep-java-library-and-spring-boot/)
 
 Artificial Intelligence
 
@@ -44,10 +57,6 @@ Functional programming
 - [Dysfunctional programming in Java 5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
 	https://medium.com/@johnmcclean
 
-Reactive programming
-
-- [Choosing a Reactive Programming Framework for Modern Android Development](https://engineering.pandora.com/choosing-a-reactive-programming-framework-for-modern-android-development-5280e2924a5a)
-
 Work
 
 - [7 Lessons Millennials Taught Me About Work](https://medium.com/s/youthnow/7-lessons-millennials-taught-me-about-work-7c19ab69db1e)
@@ -56,15 +65,12 @@ Work
 - [How to Stop Overthinking](https://forge.medium.com/how-to-stop-overthinking-c3a98e81dc2a)
 - [How to Keep Going When You Severely Doubt Yourself](https://psiloveyou.xyz/how-to-keep-going-when-you-severely-doubt-yourself-9bd6c91194d)
 - [5 Signs You’re Making The Wrong Career Move](https://medium.com/publishous/5-signs-youre-making-the-wrong-career-move-2d334ec5e91b)
+- [My summer intership at Google turned me off Silicon Valley forever](https://onezero.medium.com/my-summer-internship-at-google-turned-me-off-silicon-valley-forever-37a978fc7da8)
 
-Mathematics
+Science
 
 - [The Riemann Hypothesis, explained](https://medium.com/cantors-paradise/the-riemann-hypothesis-explained-fa01c1f75d3f)
-
-Devops
-
-- [Drastically Improve your Kubernetes Deployments with Helm](https://medium.com/@aevitas/drastically-improve-your-kubernetes-deployments-with-helm-5323e7f11ef8)
-
+- [What is the speed of gravity?](https://medium.com/starts-with-a-bang/what-is-the-speed-of-gravity-8ada2eb08430)
 
 Software Engineering
 
@@ -74,7 +80,37 @@ Software Engineering
 - [Monolithic versus microservices, and all in between](https://medium.com/swlh/monolithic-vs-micro-services-and-all-in-between-7d496408ad02)
 - [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369)
 - [Microsoft Access: The Database Software That Won’t Die](https://medium.com/young-coder/microsoft-access-the-zombie-database-software-that-wont-die-5b09e389c166)
+- [How one code review rule turned my team into a dream team](https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11)
+- [Why you shouldn't use offset and limit for your pagination](https://medium.com/swlh/why-you-shouldnt-use-offset-and-limit-for-your-pagination-4440e421ba87)
+- [Post-commit reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
+- [Dashboards are dead](https://towardsdatascience.com/dashboards-are-dead-b9f12eeb2ad2)
+- [Facebook 'TransCoder AI' converts code between Java, Python & C++](https://fossbytes.com/facebook-transcoder-ai-converts-code-between-java-python-c/)
+- [Introducing Piranha: An open source tool to automatically delete stale code](https://eng.uber.com/piranha/)
+- [Seven legacy integration patterns](https://techblog.bozho.net/seven-legacy-integration-patterns/)
+- [The anatomy of connection pooling](https://vladmihalcea.com/the-anatomy-of-connection-pooling/)
+- [The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem/)
+
+Soft skills
+
+- [How to identify a smart person in 3 minutes](https://forge.medium.com/how-to-identify-a-smart-person-in-3-minutes-57f058cd5561)
+
+Spring
+
+- [Spring Boot library for integration with Istio](https://piotrminkowski.com/2020/06/10/spring-boot-library-for-integration-with-istio/)
+- [Circuit breaker and retries on Kubernetes with Istio and Spring Boot](https://piotrminkowski.com/2020/06/03/circuit-breaker-and-retries-on-kubernetes-with-istio-and-spring-boot/)
+- [Service mesh on Kubernetes with Istio and Spring Boot](https://piotrminkowski.com/2020/06/01/service-mesh-on-kubernetes-with-istio-and-spring-boot/)
+- [Spring Cloud Stream - functional and reactive](https://spring.io/blog/2019/10/17/spring-cloud-stream-functional-and-reactive)
+- [Java AWS Lambda with Spring Cloud Function](https://rieckpil.de/java-aws-lambda-with-spring-cloud-function/)
+- [Error handling in Spring Webflux](https://www.mednikov.tech/error-handling-webflux/)
+- [RestTemplate vs WebClient](https://dzone.com/articles/resttemplate-vs-webclient)
+- [A new era of Spring Cloud](https://dzone.com/articles/a-new-era-of-spring-cloud)
 
 Testing
 
 - [Waiter, There’s a Database in My Unit Test!](https://medium.com/better-programming/waiter-theres-a-database-in-my-unit-test-9698d866102e)
+- [End-to-end testing automation essentials](https://dzone.com/refcardz/end-to-end-testing-automation-essentials?chapter=1)
+
+Misc
+
+- [Taco Bell's terrible, brilliant idea that actuall worked](https://medium.com/better-marketing/taco-bells-terrible-brilliant-idea-that-actually-worked-27045afbfcf3)
+- [Apple is killing a billion-dollar ad industry with one popup](https://medium.com/macoclock/apple-is-killing-a-billion-dollar-ad-industry-with-one-popup-2f83d182837f)
