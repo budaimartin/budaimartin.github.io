@@ -8,29 +8,18 @@ Java
 - [Scanner is a weird but useful beast](https://stuartmarks.wordpress.com/2020/04/14/scanner-is-a-weird-but-useful-beast/amp/)
 - [JDK 14 Records for Spring](https://dzone.com/articles/jdk-14-records-for-spring-devs)
 
-Kotlin
-
-- [Deep recursion with coroutines](https://medium.com/@elizarov/deep-recursion-with-coroutines-7c53e15993e3)
-
 Machine Learning
 
-- [Five Methods to Debug your Neural Network](https://towardsdatascience.com/five-methods-to-debug-your-neural-network-6fc7dc686929)
-- [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 - [Create a complete Machine learning web application using React and Flask](https://towardsdatascience.com/create-a-complete-machine-learning-web-application-using-react-and-flask-859340bddb33)
 - [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 - [Building Games With Artificial Intelligence](https://medium.com/code-gin/building-games-with-artificial-intelligence-fc4f166c9d91)
-- [Using the ‘What-If Tool’ to investigate Machine Learning models](https://towardsdatascience.com/using-what-if-tool-to-investigate-machine-learning-models-913c7d4118f)
 - [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
-- [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 - [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
 - [Step-by-step understanding LSTM Autoencoder layers](https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352)
-- [Understanding the 3 most common loss functions for Machine Learning Regression](https://towardsdatascience.com/understanding-the-3-most-common-loss-functions-for-machine-learning-regression-23e0ef3e14d3)
 - [Dealing with the Lack of Data in Machine Learning](https://medium.com/predict/dealing-with-the-lack-of-data-in-machine-learning-725f2abd2b92)
 - [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 - [Neural Networks for Music Generation](https://towardsdatascience.com/neural-networks-for-music-generation-97c983b50204)
 - [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a)
-- [Understanding Learning Rate](https://towardsdatascience.com/https-medium-com-dashingaditya-rakhecha-understanding-learning-rate-dd5da26bb6de)
-- [Why default CNN are broken in Keras and how to fix them](https://towardsdatascience.com/why-default-cnn-are-broken-in-keras-and-how-to-fix-them-ce295e5e5f2)
 - [Why we should fear not rebellious, but obedient AI](https://towardsdatascience.com/why-we-should-fear-not-rebellious-but-obedient-ai-c8c2dceb3408)
 - [An introduction to Reinforcement Learning](https://medium.com/free-code-camp/an-introduction-to-reinforcement-learning-4339519de419)
 - [Understanding Dropout with the Simplified Math behind it](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
@@ -81,13 +70,9 @@ Software Engineering
 - [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369)
 - [Microsoft Access: The Database Software That Won’t Die](https://medium.com/young-coder/microsoft-access-the-zombie-database-software-that-wont-die-5b09e389c166)
 - [How one code review rule turned my team into a dream team](https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11)
-- [Why you shouldn't use offset and limit for your pagination](https://medium.com/swlh/why-you-shouldnt-use-offset-and-limit-for-your-pagination-4440e421ba87)
 - [Post-commit reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
-- [Dashboards are dead](https://towardsdatascience.com/dashboards-are-dead-b9f12eeb2ad2)
 - [Facebook 'TransCoder AI' converts code between Java, Python & C++](https://fossbytes.com/facebook-transcoder-ai-converts-code-between-java-python-c/)
 - [Introducing Piranha: An open source tool to automatically delete stale code](https://eng.uber.com/piranha/)
-- [Seven legacy integration patterns](https://techblog.bozho.net/seven-legacy-integration-patterns/)
-- [The anatomy of connection pooling](https://vladmihalcea.com/the-anatomy-of-connection-pooling/)
 - [The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem/)
 
 Soft skills
@@ -101,7 +86,6 @@ Spring
 - [Service mesh on Kubernetes with Istio and Spring Boot](https://piotrminkowski.com/2020/06/01/service-mesh-on-kubernetes-with-istio-and-spring-boot/)
 - [Spring Cloud Stream - functional and reactive](https://spring.io/blog/2019/10/17/spring-cloud-stream-functional-and-reactive)
 - [Java AWS Lambda with Spring Cloud Function](https://rieckpil.de/java-aws-lambda-with-spring-cloud-function/)
-- [Error handling in Spring Webflux](https://www.mednikov.tech/error-handling-webflux/)
 - [RestTemplate vs WebClient](https://dzone.com/articles/resttemplate-vs-webclient)
 - [A new era of Spring Cloud](https://dzone.com/articles/a-new-era-of-spring-cloud)
 
@@ -109,8 +93,3 @@ Testing
 
 - [Waiter, There’s a Database in My Unit Test!](https://medium.com/better-programming/waiter-theres-a-database-in-my-unit-test-9698d866102e)
 - [End-to-end testing automation essentials](https://dzone.com/refcardz/end-to-end-testing-automation-essentials?chapter=1)
-
-Misc
-
-- [Taco Bell's terrible, brilliant idea that actuall worked](https://medium.com/better-marketing/taco-bells-terrible-brilliant-idea-that-actually-worked-27045afbfcf3)
-- [Apple is killing a billion-dollar ad industry with one popup](https://medium.com/macoclock/apple-is-killing-a-billion-dollar-ad-industry-with-one-popup-2f83d182837f)
