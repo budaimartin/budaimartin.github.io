@@ -4,9 +4,9 @@ Java
 - [12 recepies for using the Optional class as it's meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
 - [JVM pauses - It's more than GC](https://blanco.io/blog/jvm-safepoint-pauses/)
 - [An introductory guid to annotations and annotation processors](https://blog.frankel.ch/introductory-guide-annotation-processor/)
-- [All you wanted to know about Throwable](https://javax0.wordpress.com/2020/05/13/all-you-wanted-to-know-about-throwable/)
 - [Scanner is a weird but useful beast](https://stuartmarks.wordpress.com/2020/04/14/scanner-is-a-weird-but-useful-beast/amp/)
 - [JDK 14 Records for Spring](https://dzone.com/articles/jdk-14-records-for-spring-devs)
+- [Fun with Java Records](https://benjiweber.co.uk/blog/2020/09/19/fun-with-java-records/)
 
 Machine Learning
 
