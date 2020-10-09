@@ -3,12 +3,13 @@ layout: post
 title:  "2020 October Reading List"
 date:   2020-10-31 16:00:00 +0200
 categories: [Reading List]
-tags: [cloud, docker, java, soft_skills]
+tags: [cloud, docker, java, spring, software_engineering, soft_skills]
 ---
 
 # Cloud
 
 - [AWS — Difference between Application load balancer and Network load balancer](https://medium.com/awesome-cloud/aws-difference-between-application-load-balancer-and-network-load-balancer-cb8b6cd296a4)
+- [Terraform vs CloudFormation](https://medium.com/@endofcake/terraform-vs-cloudformation-1d9716122623)
 
 # Docker
 
@@ -18,8 +19,25 @@ tags: [cloud, docker, java, soft_skills]
 # Java
 
 - [All you wanted to know about Throwable](https://javax0.wordpress.com/2020/05/13/all-you-wanted-to-know-about-throwable/)
+- [On Project Loom, the Reactive model and coroutines](https://blog.frankel.ch/project-loom-reactive-coroutines/)
+- [Fun with Java Records](https://benjiweber.co.uk/blog/2020/09/19/fun-with-java-records/)
+- [Scanner is a weird but useful beast](https://stuartmarks.wordpress.com/2020/04/14/scanner-is-a-weird-but-useful-beast/amp/)
+- [JVM pauses - It's more than GC](https://blanco.io/blog/jvm-safepoint-pauses/)
+- [12 recepies for using the Optional class as it's meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
+
+# Spring
+
+- [Spring Cloud Stream - functional and reactive](https://spring.io/blog/2019/10/17/spring-cloud-stream-functional-and-reactive)
+- [Java AWS Lambda with Spring Cloud Function](https://rieckpil.de/java-aws-lambda-with-spring-cloud-function/)
+- [A new era of Spring Cloud](https://dzone.com/articles/a-new-era-of-spring-cloud)
+
+# Software Engineering
+
+- [Introducing Piranha: An open source tool to automatically delete stale code](https://eng.uber.com/piranha/)
 
 # Soft skills
+
+- [How to identify a smart person in 3 minutes](https://forge.medium.com/how-to-identify-a-smart-person-in-3-minutes-57f058cd5561)
 
 #### LinkedIn trainings
 

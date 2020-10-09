@@ -1,12 +1,6 @@
 Java
 
-- [On Project Loom, the Reactive model and coroutines](https://blog.frankel.ch/project-loom-reactive-coroutines/)
-- [12 recepies for using the Optional class as it's meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
-- [JVM pauses - It's more than GC](https://blanco.io/blog/jvm-safepoint-pauses/)
 - [An introductory guid to annotations and annotation processors](https://blog.frankel.ch/introductory-guide-annotation-processor/)
-- [Scanner is a weird but useful beast](https://stuartmarks.wordpress.com/2020/04/14/scanner-is-a-weird-but-useful-beast/amp/)
-- [JDK 14 Records for Spring](https://dzone.com/articles/jdk-14-records-for-spring-devs)
-- [Fun with Java Records](https://benjiweber.co.uk/blog/2020/09/19/fun-with-java-records/)
 
 Machine Learning
 
@@ -69,25 +63,14 @@ Software Engineering
 - [Monolithic versus microservices, and all in between](https://medium.com/swlh/monolithic-vs-micro-services-and-all-in-between-7d496408ad02)
 - [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369)
 - [Microsoft Access: The Database Software That Won’t Die](https://medium.com/young-coder/microsoft-access-the-zombie-database-software-that-wont-die-5b09e389c166)
-- [How one code review rule turned my team into a dream team](https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11)
-- [Post-commit reviews](https://medium.com/@copyconstruct/post-commit-reviews-b4cc2163ac7a)
 - [Facebook 'TransCoder AI' converts code between Java, Python & C++](https://fossbytes.com/facebook-transcoder-ai-converts-code-between-java-python-c/)
-- [Introducing Piranha: An open source tool to automatically delete stale code](https://eng.uber.com/piranha/)
 - [The million dollar engineering problem](https://segment.com/blog/the-million-dollar-eng-problem/)
-
-Soft skills
-
-- [How to identify a smart person in 3 minutes](https://forge.medium.com/how-to-identify-a-smart-person-in-3-minutes-57f058cd5561)
 
 Spring
 
 - [Spring Boot library for integration with Istio](https://piotrminkowski.com/2020/06/10/spring-boot-library-for-integration-with-istio/)
 - [Circuit breaker and retries on Kubernetes with Istio and Spring Boot](https://piotrminkowski.com/2020/06/03/circuit-breaker-and-retries-on-kubernetes-with-istio-and-spring-boot/)
 - [Service mesh on Kubernetes with Istio and Spring Boot](https://piotrminkowski.com/2020/06/01/service-mesh-on-kubernetes-with-istio-and-spring-boot/)
-- [Spring Cloud Stream - functional and reactive](https://spring.io/blog/2019/10/17/spring-cloud-stream-functional-and-reactive)
-- [Java AWS Lambda with Spring Cloud Function](https://rieckpil.de/java-aws-lambda-with-spring-cloud-function/)
-- [RestTemplate vs WebClient](https://dzone.com/articles/resttemplate-vs-webclient)
-- [A new era of Spring Cloud](https://dzone.com/articles/a-new-era-of-spring-cloud)
 
 Testing
 
