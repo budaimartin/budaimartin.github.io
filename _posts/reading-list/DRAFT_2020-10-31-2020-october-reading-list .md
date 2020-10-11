@@ -25,6 +25,11 @@ tags: [cloud, docker, java, spring, software_engineering, soft_skills]
 - [JVM pauses - It's more than GC](https://blanco.io/blog/jvm-safepoint-pauses/)
 - [12 recepies for using the Optional class as it's meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
 
+# Security
+
+- [What is OAuth? Definition and How it Works](https://www.varonis.com/blog/what-is-oauth/)
+- [Security Patterns for Microservice Architectures (video)](https://www.youtube.com/watch?v=xPlmRSWqSso)
+
 # Spring
 
 - [Spring Cloud Stream - functional and reactive](https://spring.io/blog/2019/10/17/spring-cloud-stream-functional-and-reactive)
