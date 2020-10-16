@@ -10,11 +10,13 @@ tags: [cloud, docker, java, spring, software_engineering, soft_skills]
 
 - [AWS — Difference between Application load balancer and Network load balancer](https://medium.com/awesome-cloud/aws-difference-between-application-load-balancer-and-network-load-balancer-cb8b6cd296a4)
 - [Terraform vs CloudFormation](https://medium.com/@endofcake/terraform-vs-cloudformation-1d9716122623)
+- [The Architecture of Amazon’s DynamoDB and Why Its Performance Is So High](https://medium.com/swlh/architecture-of-amazons-dynamodb-and-why-its-performance-is-so-high-31d4274c3129)
 
 # Docker
 
 - [A New, Better Way to Automatically Update Docker Containers](https://medium.com/better-programming/automatically-update-docker-containers-f2ccc79f4313)
 - [Amazon ECR vs. Docker Hub vs. GitHub Container Registry](https://cloudonaut.io/amazon-ecr-vs-docker-hub-vs-github-container-registry/)
+- [It’s Time to Say Goodbye to Docker](https://towardsdatascience.com/its-time-to-say-goodbye-to-docker-5cfec8eff833)
 
 # Java
 
