@@ -14,7 +14,6 @@ Machine Learning
 - [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 - [Neural Networks for Music Generation](https://towardsdatascience.com/neural-networks-for-music-generation-97c983b50204)
 - [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a)
-- [Why we should fear not rebellious, but obedient AI](https://towardsdatascience.com/why-we-should-fear-not-rebellious-but-obedient-ai-c8c2dceb3408)
 - [An introduction to Reinforcement Learning](https://medium.com/free-code-camp/an-introduction-to-reinforcement-learning-4339519de419)
 - [Understanding Dropout with the Simplified Math behind it](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)
 - [Exploring Neural Networking with Kotlin Metaprogramming: a Cheaper Alternative for Deep Learning?](https://towardsdatascience.com/exploring-neural-networking-with-kotlin-metaprogramming-a-cheaper-alternative-for-deep-learning-99c416eb7d16)
