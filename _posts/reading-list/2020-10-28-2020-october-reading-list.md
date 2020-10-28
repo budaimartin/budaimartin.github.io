@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "2020 October Reading List"
-date:   2020-10-31 16:00:00 +0200
+date:   2020-10-28 15:00:00 +0100
 categories: [Reading List]
-tags: [cloud, docker, java, spring, software_engineering, soft_skills]
+tags: [cloud, docker, java, kotlin, spring, software_engineering, soft_skills]
 ---
 
 # Cloud
@@ -11,6 +11,8 @@ tags: [cloud, docker, java, spring, software_engineering, soft_skills]
 - [AWS — Difference between Application load balancer and Network load balancer](https://medium.com/awesome-cloud/aws-difference-between-application-load-balancer-and-network-load-balancer-cb8b6cd296a4)
 - [Terraform vs CloudFormation](https://medium.com/@endofcake/terraform-vs-cloudformation-1d9716122623)
 - [The Architecture of Amazon’s DynamoDB and Why Its Performance Is So High](https://medium.com/swlh/architecture-of-amazons-dynamodb-and-why-its-performance-is-so-high-31d4274c3129)
+- [cloud-nuke: how we reduced our AWS bill by ~85%](https://blog.gruntwork.io/cloud-nuke-how-we-reduced-our-aws-bill-by-85-f3aced4e5876)
+- [Deduplicating Amazon SQS Messages](https://medium.com/avmconsulting-blog/deduplicating-amazon-sqs-messages-dc114d1e6545)
 
 # Docker
 
@@ -26,6 +28,10 @@ tags: [cloud, docker, java, spring, software_engineering, soft_skills]
 - [Scanner is a weird but useful beast](https://stuartmarks.wordpress.com/2020/04/14/scanner-is-a-weird-but-useful-beast/amp/)
 - [JVM pauses - It's more than GC](https://blanco.io/blog/jvm-safepoint-pauses/)
 - [12 recepies for using the Optional class as it's meant to be used](https://blogs.oracle.com/javamagazine/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
+
+# Kotlin
+
+- [Bootiful Kotlin (video)](https://www.youtube.com/watch?v=nso-sPLfaTk)
 
 # Security
 
