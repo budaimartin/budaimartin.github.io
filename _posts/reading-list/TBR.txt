@@ -1,6 +1,6 @@
 Java
 
-- [An introductory guid to annotations and annotation processors](https://blog.frankel.ch/introductory-guide-annotation-processor/)
+- [An introductory guide to annotations and annotation processors](https://blog.frankel.ch/introductory-guide-annotation-processor/)
 
 Machine Learning
 
